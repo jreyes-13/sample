@@ -1,2 +1,6 @@
 Stage 1: 
- Learning git 
+ Learning git
+ 
+
+Step 2:
+  Update file 
